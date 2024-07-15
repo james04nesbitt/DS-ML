@@ -1,0 +1,6 @@
+# FOLDERS
+__pycache__
+env
+
+# FILES 
+chromedriver.exe
